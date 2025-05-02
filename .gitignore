@@ -1,3 +1,3 @@
-myenv/
+scraping_env/
 *.pyc
 __pycache__/
